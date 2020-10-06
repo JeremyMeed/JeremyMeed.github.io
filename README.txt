@@ -1,4 +1,6 @@
-Voici mon portfolio créé avec HTML5UP.
-Template Massive utilisé.
+<h1>Voici mon Portfolio</h1>
 
-Vous y trouverez mes projets web dev.
+Toujours en construction ! 
+
+https://jeremymeed.github.io/
+
